@@ -59,3 +59,8 @@ Vorgehensweise:
 				- Die Kamera sollte im Bulb-Modus betrieben werden. Ein Betrieb mist fester Belichtungszeit ist aber ebenso möglich.
 				- Der Auto-fokus der Kamera muss deaktiviert werden, da die Objektiveinstellung sonst verloren geht.
 
+
+Verwendete LED's:
+
+Grün: 	Nichia 3mm LED grün 36100mcd 15° NSPG300D 
+	(Shop:http://www.leds.de/Low-Mid-Power-LEDs/LEDs-3mm/Nichia-3mm-LED-gruen-36100mcd-15-NSPG300D.html )
